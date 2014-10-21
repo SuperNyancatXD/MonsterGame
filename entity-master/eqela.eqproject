@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# entity
+#
+
+projectname: entity
+vendorid: com.mycompany
+mainmodule: com.mycompany.entity
